@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/9f3e6553-f54f-4413-8860-69405f572b8f/resourceGroups/cpwebapptest_group/subscriptions/9f3e6553-f54f-4413-8860-69405f572b8f/resourceGroups/cpwebapptest_group/providers/Microsoft.Web/sites/cpwebapptest",
+    "appService.deploySubpath": "myExpressApp"
+}
